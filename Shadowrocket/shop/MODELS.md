@@ -1,0 +1,10 @@
+https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/00_core.conf
+https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/10_geo_ru.conf
+https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/20_russian_services.conf
+https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/25_vk_group.conf
+https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/26_yandex_group.conf
+https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/30_global_blocked.cof
+https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/40_global_servises.conf
+https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/50_streaming.conf
+https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/60_crypto_opsec.conf
+https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/90_rewriters.conf
