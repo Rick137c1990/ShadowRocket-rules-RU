@@ -1,6 +1,6 @@
 # Shadowrocket
 
----
+## ![ShadowRocket Demo](assets/intro.gif)
 
 [English](https://github.com/Rick137c1990/ShadowRocket-rules-RU/blob/main/README.ru.md)
 Данный проект решает проблему разделения трафика для пользователя который находится
