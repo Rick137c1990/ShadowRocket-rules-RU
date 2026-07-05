@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛒 ShadowRocket Modules Shop
 
 Этот файл содержит готовые модули для сборки ShadowRocket rules RU.  
@@ -118,15 +117,3 @@ https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/
 https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/90_rewriters.conf
 
 ---
-=======
-https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/00_core.conf  
-https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/10_geo_ru.conf  
-https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/20_russian_services.conf  
-https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/25_vk_group.conf  
-https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/26_yandex_group.conf  
-https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/30_global_blocked.cof  
-https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/40_global_servises.conf  
-https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/50_streaming.conf  
-https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/60_crypto_opsec.conf  
-https://raw.githubusercontent.com/Rick137c1990/ShadowRocket-rules-RU/refs/heads/main/Shadowrocket/modules/90_rewriters.conf  
->>>>>>> 8f6090d712ed1f4f7b6d37becf3db45c870797ad
